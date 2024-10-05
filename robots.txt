@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eguespip.github.io/sitemap.html.gz
+Sitemap: https://eguespip.github.io/app/sitemap.html.gz
+Sitemap: https://eguespip.github.io/assets/sitemap.html.gz
+Sitemap: https://eguespip.github.io/css/sitemap.html.gz
+Sitemap: https://eguespip.github.io/data/sitemap.html.gz
+Sitemap: https://eguespip.github.io/includes/sitemap.html.gz
+Sitemap: https://eguespip.github.io/item/sitemap.html.gz
+Sitemap: https://eguespip.github.io/src/sitemap.html.gz
